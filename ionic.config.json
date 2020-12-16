@@ -1,0 +1,7 @@
+{
+  "name": "mambo-sandbox",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
